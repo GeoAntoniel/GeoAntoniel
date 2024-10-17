@@ -5,6 +5,8 @@
 
 - 🌱 Atualmente estou aprendendo **Python, R, Machine Learning, Java e JavaScripts**
 
+- 🌎 Interesses de pesquisa: Sensoriamento Remoto, Uso do Solo e Mudanças na Cobertura do Solo, Mudanças Climáticas, Ambientes Terrestres, Análise Geoespacial, Conservação, Gestão de Inundações e Agricultura
+
 - 💬 Me pergunte sobre **SQL, QGIS, ARCGIS, Google Earth Engine, Nuvem AWS, Azure Maps , Carto, MapBox, Google Cloud.**
 
 - 📄 Geógrafo Antoniel [[https://www.linkedin.com/in/antoniel-de-souza-normandia-70535574/](https://www.linkedin.com/in /antoniel-de-souza-normandia-70535574/)](https://www.linkedin.com/in/antoniel-de-souza-normandia-70535574/)
