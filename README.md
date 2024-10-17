@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **SQL, QGIS, ARCGIS, Google Earth Engine, Nuvem AWS, Azure Maps , Carto, MapBox, Google Cloud.**
 
-- 📄 Geógrafo Antoniel (https://www.linkedin.com/in /antoniel-de-souza-normandia-70535574/)](https://www.linkedin.com/in/antoniel-de-souza-normandia-70535574/)
+- 📄 Geógrafo Antoniel (https://www.linkedin.com/in/antoniel-de-souza-normandia-70535574/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
