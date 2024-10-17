@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados. **Cadastro Urbano e Ambiental.**
 
-- - 🌎 Interesses de pesquisa: Sensoriamento Remoto, Uso do Solo e Mudanças na Cobertura do Solo, Mudanças Climáticas, Ambientes Terrestres, Análise Geoespacial, Conservação, Gestão de Inundações e Agricultura.**
+- 🌎 Interesses de pesquisa: Sensoriamento Remoto, Uso do Solo e Mudanças na Cobertura do Solo, Mudanças Climáticas, Ambientes Terrestres, Análise Geoespacial, Conservação, Gestão de Inundações e Agricultura
 
 - 🌱 Atualmente estou aprendendo **Python, R, Machine Learning, Java e JavaScripts**
 
