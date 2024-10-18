@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, R, Machine Learning, Java e JavaScripts**
 
-- 💬 Me pergunte sobre **SQL, QGIS, ARCGIS, Google Earth Engine, Nuvem AWS, Azure Maps , Carto, MapBox, Google Cloud.**
+- 💬 Me pergunte sobre **SQL, QGIS, ARCGIS, Google Earth Engine, Nuvem AWS, Azure Maps , Carto, MapBox, Google Cloud, GeoAI**
 
 - 📄 Geógrafo Antoniel (https://www.linkedin.com/in/antoniel-de-souza-normandia-70535574/)
 
